@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.dia14junio"
+    namespace = "com.example.otro14"
     compileSdk = 34
 
     defaultConfig {
